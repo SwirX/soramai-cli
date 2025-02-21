@@ -4,7 +4,6 @@ import sys
 from providers.provider_base import AnimeProvider
 from providers.allanime import AllAnime
 from flask import Flask, render_template, request, jsonify, redirect
-
 class Soramai:
     def __init__(self, provider: AnimeProvider = AllAnime) -> None:
         self.mode = "sub"
@@ -74,9 +73,26 @@ class Soramai:
         if not result:
             exit(1)
         episode = anime.get_episode(int(result))
-        stream = episode.streams[0].link
-        cmd = f"mpv {stream}"
-        subprocess.call(cmd)
+        for stream_data in episode.streams:
+            stream = stream_data.link
+            print("Trying stream URL:", stream)
+
+            cmd = ["mpv", stream, f'--title={title} {episode.title}']
+            
+            try:
+                out = subprocess.run(cmd, capture_output=True, text=True)  # Capture stderr for error checking
+                
+                if out.returncode == 0:  # If mpv exits successfully, stream is working
+                    print("Stream is working!")
+                    break
+                else:
+                    print("Stream failed with error:", out.stderr)
+            
+            except Exception as e:
+                print("Error while playing stream:", e)
+
+        print("No working stream found.") if out.returncode != 0 else print("Playback successful.")
+
 
     def debug(self):
         self.provider.get_search(1, "death note")

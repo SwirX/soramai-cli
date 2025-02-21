@@ -2,8 +2,11 @@ import os
 import json
 import time
 import requests
+from requests_html import HTMLSession
 
 from . import provider_base as base
+
+os.environ['PYPPETEER_EXECUTABLE_PATH'] = "C:\\chrome-win\\chrome.exe"  # Adjust this path
 
 class VideoLink:
     def __init__(self, link="", hls=False, mp4=False, resolutionStr="", src="", rawUrls=None):
@@ -18,7 +21,7 @@ class AllAnime(base.AnimeProvider):
     def __init__(self):
         self.agent = "Mozilla/5.0 (Windows NT 6.1; Win64; rv:109.0) Gecko/20100101 Firefox/109.0"
         self.allanime_api = "https://api.allanime.day"
-        self.allanime_base = "https://allanime.to"
+        self.allanime_base = "https://allmanga.to"
         self.lang = "en"
         self.mode = "sub"
         self.internalLinks = [
@@ -27,7 +30,10 @@ class AllAnime(base.AnimeProvider):
             "Default",
             "S-mp4",
         ]
-        self.endpoint = requests.get(self.allanime_base + "/getVersion").json()["episodeIframeHead"]
+        self.session = requests.Session()
+        self.endpoint = self.session.get(self.allanime_base + "/getVersion").json()['episodeIframeHead']
+        print(self.endpoint)
+        # exit()
         
         self.cache_filename = "soramai.cache.json"
         self.cache = self.load_cache()

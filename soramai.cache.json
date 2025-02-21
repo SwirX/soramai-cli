@@ -1,0 +1,715 @@
+{
+    "search_OnePunch man": [],
+    "search_one punch man": [
+        {
+            "_id": "JrYvnEyM5eJLdbQtF",
+            "name": "One Punch Man Season 2 Commemorative Special",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/123539.jpg",
+            "englishName": "One Punch Man 2nd Season Commemorative Special",
+            "episodeCount": "1",
+            "score": 6.96,
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super Power",
+                "Supernatural",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "8sB7F65RGSQ3dMjYa",
+            "name": "One Punch Man",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-UV2tu6exrfXz.jpg",
+            "englishName": "One-Punch Man",
+            "episodeCount": "12",
+            "score": 8.52,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "eQ5PpDMFNcJQz3qyP",
+            "name": "One Punch Man Season 2 Specials",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108945-snH9n5sN1vrb.png",
+            "englishName": "One-Punch Man Season 2 OVA",
+            "episodeCount": "6",
+            "score": 7.34,
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super Power",
+                "Supernatural",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "M9xDPBScWgd4v5xF9",
+            "name": "One Punch Man 2nd Season",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+            "englishName": "One-Punch Man Season 2",
+            "episodeCount": "12",
+            "score": 7.53,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "2v9RmWefLAj3qxRLt",
+            "name": "One Punch Man Specials",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21416-IwCJBh54K3iw.jpg",
+            "englishName": "One-Punch Man OVA",
+            "episodeCount": "6",
+            "score": 7.7,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "6tkb98otawc3hzLZ3",
+            "name": "One Punch Man: Road to Hero",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1105/112672.jpg",
+            "englishName": "One-Punch Man: Road to Hero",
+            "episodeCount": "1",
+            "score": 7.71,
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super Power",
+                "Supernatural",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "episode_streams8sB7F65RGSQ3dMjYa_11": [
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0e5d0f0a0f0a0f0e0f0d0b5b0a010a010f0d0b0d0e0b0e5a0e0c0f0a0e0f0e5c0f0b0a000f0e0f0c0e010a010f0d0f0a0f0c0e0b0e0f0e5a0e5e0e000e090a000f0e0e5d0f0e0b010e5e0e0a0b5a0c000f5b0c0f0f090c000f5b0e5c0b5a0a080f0a0e5e0f0a0e590e0b0b5a0c010e000e0b0a5c0d0e0f0b0e000e0d0e5d0a5c0c5a0e0f0e000a080f0a0f5e0f0e0e0b0f0d0f0b0e0c0b5a0d0d0d0b0c0c0a080f0d0f0b0e0c0b5a0e0b0f5e0c5b0e590e0c0e5e0c5e0b080e0c0e000d080f0d0e0c0c0d0f090e5e0d5b0d5d0c5a0e5e0c010e5e0c5b0e590e0d0f5e0b0b0b0c0e0a0c5d0d0f0e5e0e080d0f0b5a0b5a0a080e0d0e010f080e0b0f0c0b5a0e0f0d090b0f0e5d0d5b0b0c0d080f5b0c590b0d0d080f090e0c0c090b5e0e5d0d5b0c0d0b5d0b0d0c000e5b0c0f0b0e0c010d0d0b0b0f0f0e0d0c090e0d0b5a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0f080e5e0e0a0e0b0e010f0d0f0a0f0c0e0b0e0f0e5a0e5e0e010a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0e0b5b0b0e0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a1e4a5d5e5d4a5d4a05",
+            "priority": 7.7,
+            "sourceName": "Luf-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://s3embtaku.pro/streaming.php?id=NzAwNzk=&title=One+Punch+Man&typesub=SUB&sub=eyJlbiI6bnVsbCwiZXMiOiJlcy52dHQifQ==&cover=aW1hZ2VzL3VwbG9hZC83NjA0OS5qcGc=",
+            "priority": 4,
+            "sourceName": "Vid-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Gl",
+                "downloadUrl": "https://s3embtaku.pro/download?id=NzAwNzk=&title=One+Punch+Man&typesub=SUB&sub=eyJlbiI6bnVsbCwiZXMiOiJlcy52dHQifQ==&cover=aW1hZ2VzL3VwbG9hZC83NjA0OS5qcGc=&sandbox=allow-forms%20allow-scripts%20allow-same-origin%20allow-downloads"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c51590f174e515c5d574b17004b7a0f7e0e0d6a7f6b690b5c75526159174b4d5a170909",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://ok.ru/videoembed/4571289750162",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://streamsb.net/e/0fnbmxsa6exi.html",
+            "priority": 5.5,
+            "sourceName": "Ss-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "StreamSB",
+                "downloadUrl": "https://streamsb.net/d/0fnbmxsa6exi.html"
+            }
+        },
+        {
+            "sourceUrl": "https://streamlare.com/e/r8WdlWmeE02Djx4q",
+            "priority": 3,
+            "sourceName": "Sl-mp4",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Streamlare",
+                "downloadUrl": "https://streamlare.com/v/r8WdlWmeE02Djx4q"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0f0e000e5e0e5a0e0b0b0d0a010e0f0e000e5e0e5a0e0b0a010b5d0f0d0c0c0b090c080b080b0b0d0c0c090d0d0d0f0b0d0e0a0c5a0e5b0d5e0e0f0d010b0f0b0f0d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0e0b5b0b0e0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f7263752967686f6b63352967686f6b63293e7544314030335441555735624b6c5f6759373759757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b36342b34375236363c363f3c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0b0c0b0d0e0c0b080b0a0e0b0d010e0f0e0d0b0f0e0f0b0a0b5e0e0b0b0b0e0d0b5e0b080e0d0b0a0b5d0b5e0e080b5e0b080b0a0b080e0c0b090e0b0b080b0b0e0b0b0e0e0b0e0c0e080e0a0e0a0a0e0f590a0e0b090b0b0b080b5d0b0e0e0b0b0d0b0f0b5e0b0c0b0e0e0b0e080b0c0b090e0b0b0c0e0b0e0a0b0d0b0d0b5e0b0d0b0a0e080b5d0b090b0c0e0a0e0a0b0d0b0d0a0e0f590a0e0e5a0e0b0e0a0e5e0e0f0a010b0c0b0d0e0c0b080b0a0e0b0d010e0f0e0d0b0f0e0f0b0a0b5e0e0b0b0b0e0d0b5e0b080e0d0b0a0b5d0b5e0e080b5e0b080b0a0b080e0c0b090e0b0b080b0b0e0b0b0e0e0b0e0c0e080e0a0e0a0e080b0e0b0e0b0f0a000e5b0f0e0e090a0e0f590a0e0a590b0f0b0e0b5d0b0e0f0e0a590b090b0c0b0e0f0e0a590b0a0b5d0b0e0f0e0a590a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d090e5e0f5d0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0e0b5b0b0e0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 8.5,
+            "sourceName": "Default",
+            "type": "iframe",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0e5d0f0a0f0a0f0e0f0d0b5b0a010a010f0b0f0d0e0b0f0c0f0d0e0d0e590e010f0b0e0a0a000e0d0e010e5a0a010e0b0e5a0e0c0e0b0e0a0a5a0e590b090b0b0b0a0f0e0e0c0f0d0f5e0b090f5b0b090b0e0a000e5d0f0a0e5a0e590a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0b0f0d0e0b0f0c0f080e5e0e0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0e0b5b0b0e0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 1,
+            "sourceName": "Uv-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010e010e000e0b0a5a0f0e0f0b0e000e0d0e5d0a5a0e5a0e0f0e000a5a0b080b0d0b010e0b0f0e0b5a0b0f0b0b0b0f0b0f0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0e0b5b0b0e0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        }
+    ],
+    "video_list_8sB7F65RGSQ3dMjYa_11": [
+        [
+            {
+                "link": "https://ayvic.fast4speed.rsvp/vic/www116.anzeat.pro/streamhls/8375a1c42004c05e2c996d293196ffca/ep.11.1709287737.m3u8",
+                "hls": true,
+                "resolutionStr": "Alt",
+                "src": "https://ayvic.fast4speed.rsvp/vic/www116.anzeat.pro/streamhls/8375a1c42004c05e2c996d293196ffca/ep.11.1709287737.m3u8",
+                "priority": 3,
+                "mp4": false
+            },
+            {
+                "link": "https://www116.anzeat.pro/streamhls/8375a1c42004c05e2c996d293196ffca/ep.11.1709287737.m3u8",
+                "hls": true,
+                "mp4": false,
+                "resolutionStr": "hls P",
+                "priority": 3
+            }
+        ],
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/anime3/_layouts/15/download.aspx?share=EUUgwe8JC5FPtleGZzgGCWoBBMC3do_h95cZq8fsw365vQ",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/anime3/_layouts/15/download.aspx?share=EUUgwe8JC5FPtleGZzgGCWoBBMC3do_h95cZq8fsw365vQ"
+            }
+        ],
+        [
+            {
+                "link": "https://repackager.wixmp.com/video.wixstatic.com/video/23b64e_ac1a49e5c96c489f9646b7e65e0ebfdd/,1080p,720p,480p,/mp4/file.mp4.urlset/master.m3u8",
+                "hls": true,
+                "resolutionStr": "Hls"
+            }
+        ]
+    ],
+    "search_Izure Saikyou": [
+        {
+            "_id": "Qqff3iCDiyh3FxNmv",
+            "name": "Izure Saikyou no Renkinjutsushi?",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+            "englishName": "Possibly the Greatest Alchemist of All Time",
+            "episodeCount": "12",
+            "score": 6.66,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Isekai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "episode_streamsQqff3iCDiyh3FxNmv_8": [
+        {
+            "sourceUrl": "https://listeamed.net/e/wP2050rjel2Edmy",
+            "priority": 5.5,
+            "sourceName": "Vg",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "VidGuard",
+                "downloadUrl": "https://listeamed.net/v/wP2050rjel2Edmy"
+            }
+        },
+        {
+            "sourceUrl": "https://filemoon.to/e/gd8cvk0r2eri.html",
+            "priority": 5.5,
+            "sourceName": "Fm-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Filemoon",
+                "downloadUrl": "https://filemoon.to/d/gd8cvk0r2eri.html"
+            }
+        },
+        {
+            "sourceUrl": "https://ok.ru/videoembed/9745035823762",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://mp4upload.com/embed-bk19pwso7nsn.html",
+            "priority": 4,
+            "sourceName": "Mp4",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://streamwish.to/e/mmqqjtz1ur09",
+            "priority": 5.5,
+            "sourceName": "Sw",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Streamwish",
+                "downloadUrl": "https://streamwish.to/mmqqjtz1ur09"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c515901174e515c5d574b1769495e5e0b517b7c5141500b7e4076554e174b4d5a170067090f0b010100090a010c0b000d074e0509",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0d0e5d0e0f0f0c0f0a0e590e010f0b0f0d0f0a0f5e0a010e0f0e000e5e0e5a0e0b0b0c0a010d0f0f0f0e080e080b0d0e5e0c0d0c0a0e5e0f5e0e5d0b0d0c080f5d0c000e5a0f080d010b5d0d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0f0b5b0b0f0b0f0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f72637529656e6774726a697375727f2967686f6b63342957776060356f45426f7f6e35407e486b70593e59757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b36342b34375236373c37373c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010f0e0e010f0d0f0d0e5e0e0c0e590f5e0a5a0f0a0e5d0e0b0a5a0e090f0c0e0b0e0f0f0a0e0b0f0d0f0a0a5a0e0f0e590e0d0e5d0e0b0e5a0e5e0f0d0f0a0a5a0e010e080a5a0e0f0e590e590a5a0f0a0e5e0e5a0e0b0a5a0b0f0b5e0b0a0b0b0b0f0b010e0b0f0e0b5a0b0f0b0d0b0d0b0f0b090b0d0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0f0b5b0b0f0b0f0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        }
+    ],
+    "video_list_Qqff3iCDiyh3FxNmv_8": [
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EXjUqSxLlxxBgLoPwLwgZhwBk-7GJL3x8ekmBjyHjxhRYA",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EXjUqSxLlxxBgLoPwLwgZhwBk-7GJL3x8ekmBjyHjxhRYA",
+                "fromCache": "2025-02-21T01:11:29.275Z"
+            }
+        ]
+    ],
+    "episode_streamsQqff3iCDiyh3FxNmv_7": [
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010f0e0e010f0d0f0d0e5e0e0c0e590f5e0a5a0f0a0e5d0e0b0a5a0e090f0c0e0b0e0f0f0a0e0b0f0d0f0a0a5a0e0f0e590e0d0e5d0e0b0e5a0e5e0f0d0f0a0a5a0e010e080a5a0e0f0e590e590a5a0f0a0e5e0e5a0e0b0a5a0b0f0b5e0b0a0b0b0b0f0b010e0b0f0e0b5a0b0f0b0d0b0c0b090b080b0d0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0f0b5b0b0f0b0a0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://listeamed.net/e/KNWlEDWojPKxkbp",
+            "priority": 5.5,
+            "sourceName": "Vg",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "VidGuard",
+                "downloadUrl": "https://listeamed.net/v/KNWlEDWojPKxkbp"
+            }
+        },
+        {
+            "sourceUrl": "https://filemoon.to/e/80vl431pjqlk.html",
+            "priority": 5.5,
+            "sourceName": "Fm-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Filemoon",
+                "downloadUrl": "https://filemoon.to/d/80vl431pjqlk.html"
+            }
+        },
+        {
+            "sourceUrl": "https://ok.ru/videoembed/9723004652178",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://mp4upload.com/embed-s3f634ecf2hh.html",
+            "priority": 4,
+            "sourceName": "Mp4",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://streamwish.to/e/9eqdypgkvrz3",
+            "priority": 5.5,
+            "sourceName": "Sw",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Streamwish",
+                "downloadUrl": "https://streamwish.to/9eqdypgkvrz3"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c515901174e515c5d574b1769495e5e0b517b7c5141500b7e4076554e174b4d5a170f67090f0b010b010008010c00090a074e0509",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0d0e5d0e0f0f0c0f0a0e590e010f0b0f0d0f0a0f5e0a010e0f0e000e5e0e5a0e0b0b0c0a010d0f0f0f0e080e080b0d0e5e0c0d0c0a0e5e0f5e0e5d0b0d0c080f5d0c000e5a0f080d010b090d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0e0b0f0b5b0b0f0b0a0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f72637529656e6774726a697375727f2967686f6b63342957776060356f45426f7f6e35407e486b70593159757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b36342b34375236373c37323c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        }
+    ],
+    "video_list_Qqff3iCDiyh3FxNmv_7": [
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EYzL5eKcX4lNiVVRcnNECgQBAwm2u-L1H_ZcO28HBNqHZA",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EYzL5eKcX4lNiVVRcnNECgQBAwm2u-L1H_ZcO28HBNqHZA",
+                "fromCache": "2025-02-21T01:14:24.852Z"
+            }
+        ]
+    ],
+    "search_Alchemist": [
+        {
+            "_id": "Qqff3iCDiyh3FxNmv",
+            "name": "Izure Saikyou no Renkinjutsushi?",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+            "englishName": "Possibly the Greatest Alchemist of All Time",
+            "episodeCount": "12",
+            "score": 6.66,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Isekai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "75WRP6X25uXH4qWyW",
+            "name": "Fullmetal Alchemist: Reflections",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+            "englishName": "Fullmetal Alchemist: Reflections",
+            "episodeCount": "1",
+            "score": 7.26,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Military",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "iA4pq7Fg4R36tC7Qw",
+            "name": "Shinmai Renkinjutsushi no Tenpo Keiei",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139369-uwq21xa6v1JJ.jpg",
+            "englishName": "Management of a Novice Alchemist",
+            "episodeCount": "12",
+            "score": 6.61,
+            "genres": [
+                "Fantasy",
+                "Slice of Life",
+                "Adventure",
+                "Magic"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "5hYtyT2dRxLxKWPPE",
+            "name": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+            "englishName": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+            "episodeCount": "16",
+            "score": 7.48,
+            "genres": [
+                "Parody",
+                "Fantasy",
+                "Comedy",
+                "Military"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "gBHF3DcT8E5WziMkt",
+            "name": "Fullmetal Alchemist: Brotherhood Specials",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/9/19338.webp",
+            "englishName": "Fullmetal Alchemist: Brotherhood OVA Collection",
+            "episodeCount": "4",
+            "score": 8.01,
+            "genres": [
+                "Military",
+                "Adventure",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "wCMetb4GRB26MbrRC",
+            "name": "Fullmetal Alchemist: Premium Collection",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
+            "englishName": "Fullmetal Alchemist: Premium OVA Collection",
+            "episodeCount": "3",
+            "score": 7.31,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "NmNuqRYJokQbFRqCv",
+            "name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
+            "englishName": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+            "episodeCount": "1",
+            "score": 7.53,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Historical",
+                "Shounen",
+                "Isekai",
+                "Military"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "n86zMvTFCzWwJdMdS",
+            "name": "Ta ga Tame no Alchemist",
+            "thumbnail": "https://cdnimg.xyz/cover/ta-ga-tame-no-alchemist.png",
+            "englishName": "For Whom The Alchemist Exists The Movie",
+            "episodeCount": "1",
+            "score": 6.46,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Magic",
+                "Fantasy"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "jGEN2pk7vyEoytQyJ",
+            "name": "Bungou to Alchemist: Shinpan no Haguruma",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114411-PnXaweOf99xA.jpg",
+            "englishName": "Bungo and Alchemist -Gears of Judgement-",
+            "episodeCount": "13",
+            "score": 6.36,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "7YZ4ycd2FE5Eorsbe",
+            "name": "Ulysses: Jehanne Darc to Renkin no Kishi",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/96156.jpg",
+            "englishName": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+            "episodeCount": "12",
+            "score": 5.33,
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Adventure",
+                "Romance"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "PybtbgfbwLMFRBFFA",
+            "name": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20506-mnrQHxuYhame.jpg",
+            "englishName": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
+            "episodeCount": "12",
+            "score": 6.42,
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Slice of Life",
+                "Magic"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "yLCKvGbhA6buygXad",
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+            "englishName": "Fullmetal Alchemist: Brotherhood",
+            "episodeCount": "64",
+            "score": 9.18,
+            "genres": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen",
+                "Super Power"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "fYsmnABr7aHWKqC5z",
+            "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
+            "englishName": "Fullmetal Alchemist: The Sacred Star of Milos",
+            "episodeCount": "1",
+            "score": 7.28,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "5LAemrxCJXaPCNdmQ",
+            "name": "Fullmetal Alchemist Blind Alchemist",
+            "thumbnail": "mcovers/a_tbs/dhw/5LAemrxCJXaPCNdmQ.jpg",
+            "englishName": null,
+            "episodeCount": null,
+            "score": null,
+            "genres": [],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "eaMtWbgKFLkSJuqNW",
+            "name": "Fullmetal Alchemist",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+            "englishName": "Fullmetal Alchemist",
+            "episodeCount": "51",
+            "score": 8.12,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ]
+}

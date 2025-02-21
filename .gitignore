@@ -1,1 +1,4 @@
 providers\__pycache__
+.python-version
+ns_requirements.txt
+env/
