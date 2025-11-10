@@ -711,5 +711,657 @@
             "slugTime": null,
             "__typename": "Show"
         }
+    ],
+    "search_Izure": [
+        {
+            "_id": "Qqff3iCDiyh3FxNmv",
+            "name": "Izure Saikyou no Renkinjutsushi?",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+            "englishName": "Possibly the Greatest Alchemist of All Time",
+            "episodeCount": "12",
+            "score": 6.65,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Isekai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "search_Middle-Aged": [
+        {
+            "_id": "9CzEzzJAXSgJHhExv",
+            "name": "Akuyaku Reijou Tensei Ojisan",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png",
+            "englishName": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+            "episodeCount": "12",
+            "score": 7.59,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Seinen",
+                "Isekai",
+                "School",
+                "Magic",
+                "Parody"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "zFcwjxJvEFDQcR263",
+            "name": "Around 40 Otoko no Isekai Tsuuhan",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
+            "englishName": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+            "episodeCount": "13",
+            "score": 6.56,
+            "genres": [
+                "Ecchi",
+                "Fantasy",
+                "Shounen",
+                "Isekai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "5QN3sznB2tFoR8zww",
+            "name": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1007/141625.jpg",
+            "englishName": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+            "episodeCount": "12",
+            "score": 7.38,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Comedy",
+                "Magic"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "o7ZkYqR85v7CWGv5s",
+            "name": "Toaru Ossan no VRMMO Katsudouki",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161364-X0Nk5FvL6GHj.jpg",
+            "englishName": "A Playthrough of a Certain Dude's VRMMO Life",
+            "episodeCount": "12",
+            "score": 6.55,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "episode_streams9CzEzzJAXSgJHhExv_7": [
+        {
+            "sourceUrl": "https://listeamed.net/e/P0poO1L1nKDEz17",
+            "priority": 5.5,
+            "sourceName": "Vg",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "VidGuard",
+                "downloadUrl": "https://listeamed.net/v/P0poO1L1nKDEz17"
+            }
+        },
+        {
+            "sourceUrl": "https://mp4upload.com/embed-gpmfyoxtflqp.html",
+            "priority": 4,
+            "sourceName": "Mp4",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://ok.ru/videoembed/9747913902738",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://filemoon.to/e/62985g9m5xek.html",
+            "priority": 5.5,
+            "sourceName": "Fm-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Filemoon",
+                "downloadUrl": "https://filemoon.to/d/62985g9m5xek.html"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c515901174e515c5d574b17017b427d42427279606b5f7270507d404e174b4d5a170f67090f0c08080e0f0e010e0d0a0e074e0509",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0d0e5d0e0f0f0c0f0a0e590e010f0b0f0d0f0a0f5e0a010e0f0e000e5e0e5a0e0b0b0c0a010b5e0c0d0f5b0c0b0f5b0f5b0c5b0c0f0d5d0d0d0e090c5b0c5d0e5d0c0b0f5d0f080d010b090d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0f0b5e0b5b0b0a0b0d0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f72637529656e6774726a697375727f2967686f6b6334293f457c437c7c4c475e55614c4e6e437e70593159757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b36342b343752373f3c32353c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010e080f0c0e010e5a0a5a0e0c0f0b0f0c0e0b0e0f0f0b0e0d0f0c0e0f0f0a0a5a0f0a0e010a5a0f080e5e0e590e590e0f0e5e0e000e0b0f0d0f0d0a5a0e0a0e0f0e0a0f0d0a5a0e0c0e0b0e0b0e000a5a0f0c0e0b0e5e0e000e0d0e0f0f0c0e000e0f0f0a0e0b0e0a0a5a0b0f0b5e0b0a0b0b0b0d0b010e0b0f0e0b5a0b0f0b0d0b0d0b0c0b0d0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0f0b5e0b5b0b0a0b0d0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        }
+    ],
+    "video_list_9CzEzzJAXSgJHhExv_7": [
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EbHfHZ9ujXtJuItimfhK30UBIaBOHPqQevUGOzz74_1INA",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EbHfHZ9ujXtJuItimfhK30UBIaBOHPqQevUGOzz74_1INA",
+                "fromCache": "2025-02-21T19:43:59.302Z"
+            }
+        ]
+    ],
+    "search_daily life of a ": [
+        {
+            "_id": "zFcwjxJvEFDQcR263",
+            "name": "Around 40 Otoko no Isekai Tsuuhan",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
+            "englishName": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+            "episodeCount": "13",
+            "score": 6.56,
+            "genres": [
+                "Ecchi",
+                "Fantasy",
+                "Shounen",
+                "Isekai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "4DJuLCmpb9S9prRTC",
+            "name": "Xian Wang de Richang Shenghuo 4",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b156110-LN58r4yQpDGV.jpg",
+            "englishName": "The Daily Life of the Immortal King 4",
+            "episodeCount": "12",
+            "score": 7.48,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "School",
+                "Action",
+                "Slice of Life",
+                "Parody"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "jMgNCiy4RCChp7wcb",
+            "name": "Shiguang Zhaoxiangguan de Richang",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140175-ALEehijVQois.jpg",
+            "englishName": "LINK CLICK (Shorts)",
+            "episodeCount": "18",
+            "score": 6.74,
+            "genres": [
+                "Comedy",
+                "Slice of Life"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "C54vWZwYqiQHRE3gW",
+            "name": "Xian Wang de Richang Shenghuo 3",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141852-tgLX8S7fqy3G.png",
+            "englishName": "The Daily Life of the Immortal King Season 3",
+            "episodeCount": "12",
+            "score": 7.35,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Adventure",
+                "School",
+                "Slice of Life",
+                "Magic",
+                "Super Power"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "ZmkrzBxMTo3sGL5tE",
+            "name": "Xian Wang de Richang Shenghuo 2",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1323/119210.jpg",
+            "englishName": "The Daily Life of the Immortal King Season 2",
+            "episodeCount": "12",
+            "score": 7.39,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Parody",
+                "School",
+                "Super Power",
+                "Adventure",
+                "Slice of Life"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "9Qzhwh4kPpcTmZxNw",
+            "name": "Shinmai Maou no Keiyakusha: Toujou Basara no Hard Sweet na Nichijou",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/12/69911.jpg",
+            "englishName": "The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life",
+            "episodeCount": "1",
+            "score": 6.95,
+            "genres": [
+                "Action",
+                "Demons",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic",
+                "Romance",
+                "Super Power"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "NFCezHSeuFpyJa45y",
+            "name": "Xian Wang De Richang Shenghuo",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114121-vxWVgIBlBjox.png",
+            "englishName": "The Daily Life of the Immortal King",
+            "episodeCount": "15",
+            "score": 7.32,
+            "genres": [
+                "Adventure",
+                "Slice of Life",
+                "Comedy",
+                "Demons",
+                "Fantasy",
+                "School",
+                "Action",
+                "Super Power",
+                "Magic",
+                "Parody"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "Pw3tMRdNhEuRMkSjA",
+            "name": "Shinmai Maou no Testament Burst OVA",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/5/74864.jpg",
+            "englishName": "The Testament of Sister New Devil BURST: Tojo Basara\u2019s Perfectly Peaceful Daily Life",
+            "episodeCount": "1",
+            "score": 6.79,
+            "genres": [
+                "Action",
+                "Demons",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "Eku8kGMix3YQS6h6m",
+            "name": "Monster Musume no Iru Nichijou: Hobo Mainichi OO! Namappoi Douga",
+            "thumbnail": "https://cdnimg.xyz/images/upload/mons.jpg",
+            "englishName": "Monster Musume Everyday Life With Monster Girls: Hobo Mainichi Oo! Namappoi Douga",
+            "episodeCount": "60",
+            "score": 6.55,
+            "genres": [
+                "Slice of Life",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "xWKKzc9JCH7Z76WRE",
+            "name": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1561/94774.jpg",
+            "englishName": null,
+            "episodeCount": "7",
+            "score": 6.86,
+            "genres": [
+                "Romance",
+                "School",
+                "Yuri",
+                "Slice of Life",
+                "Shoujo Ai"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "search_dayli life of a": [],
+    "episode_streamszFcwjxJvEFDQcR263_7": [
+        {
+            "sourceUrl": "https://ok.ru/videoembed/9747485362834",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://listeamed.net/e/0DogOGDXPrP5KjM",
+            "priority": 5.5,
+            "sourceName": "Vg",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "VidGuard",
+                "downloadUrl": "https://listeamed.net/v/0DogOGDXPrP5KjM"
+            }
+        },
+        {
+            "sourceUrl": "https://mp4upload.com/embed-ar1bny19pefp.html",
+            "priority": 4,
+            "sourceName": "Mp4",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://filemoon.to/e/2ug6a2k66xfq.html",
+            "priority": 5.5,
+            "sourceName": "Fm-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Filemoon",
+                "downloadUrl": "https://filemoon.to/d/2ug6a2k66xfq.html"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c515901174e515c5d574b17427e5b4f5240724e7d7e7c695b6a0a0e0b174b4d5a170f67090f0c08080d000b0b0c0f000e074e0509",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0d0e5d0e0f0f0c0f0a0e590e010f0b0f0d0f0a0f5e0a010e0f0e000e5e0e5a0e0b0b0c0a010f5b0c080e0d0f090e5b0f5d0c5b0f080c0b0c080c0a0d0f0e0d0d0c0b0c0b080b0d0d010b090d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0f0b5e0b5b0b0a0b0b0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f72637529656e6774726a697375727f2967686f6b6334297c4065716c7e4c70434042576554343035593159757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b36342b343752373f3c32333c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010f0a0e5d0e0b0a5a0e0a0e0f0e5e0e590f5e0a5a0e590e5e0e080e0b0a5a0e010e080a5a0e0f0a5a0e5a0e5e0e0a0e0a0e590e0b0a5a0e0f0e090e0b0e0a0a5a0e010e000e590e5e0e000e0b0a5a0f0d0e5d0e010f0e0f0e0e0b0f0c0a5a0e5e0e000a5a0e0f0e000e010f0a0e5d0e0b0f0c0a5a0f090e010f0c0e590e0a0a5a0b0f0b5e0b0a0b080b5d0b010e0b0f0e0b5a0b0f0b0d0b0d0b0c0b0d0b0f0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0e0b0c0a5a0b0c0b0f0d0a0b0f0b5e0b5b0b0a0b0b0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        }
+    ],
+    "video_list_zFcwjxJvEFDQcR263_7": [
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EVDWhwBGpZJFsRk_bThsO9gBgTO0-w5LS2DDo7OUOsuSZw",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=EVDWhwBGpZJFsRk_bThsO9gBgTO0-w5LS2DDo7OUOsuSZw",
+                "fromCache": "2025-02-21T19:45:04.096Z"
+            }
+        ]
+    ],
+    "search_death note": [
+        {
+            "_id": "XuYhavYftLYbaqizA",
+            "name": "Death Note Rewrite: The Visualizing God",
+            "thumbnail": "mcovers/a_tbs/dhw/XuYhavYftLYbaqizA.jpg",
+            "englishName": null,
+            "episodeCount": null,
+            "score": null,
+            "genres": [],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "4faC8vAweqoestJgw",
+            "name": "Death Note: Rewrite",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg",
+            "englishName": "Death Note: Relight",
+            "episodeCount": "2",
+            "score": 7.7,
+            "genres": [
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Shounen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "RezHft5pjutwWcE3B",
+            "name": "Death Note",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
+            "englishName": "Death Note",
+            "episodeCount": "37",
+            "score": 8.62,
+            "genres": [
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Shounen",
+                "Demons"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "search_opm": [
+        {
+            "_id": "HpfBem3J6j8hnr7b8",
+            "name": "One Punch Man 3",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
+            "englishName": "One-Punch Man Season 3",
+            "episodeCount": "12",
+            "score": 5.79,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Super Power",
+                "Supernatural",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "JrYvnEyM5eJLdbQtF",
+            "name": "One Punch Man Season 2 Commemorative Special",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/123539.jpg",
+            "englishName": "One Punch Man 2nd Season Commemorative Special",
+            "episodeCount": "1",
+            "score": 6.96,
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super Power",
+                "Supernatural",
+                "Seinen"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "8sB7F65RGSQ3dMjYa",
+            "name": "One Punch Man",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-UV2tu6exrfXz.jpg",
+            "englishName": "One Punch Man",
+            "episodeCount": "12",
+            "score": 8.49,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        },
+        {
+            "_id": "M9xDPBScWgd4v5xF9",
+            "name": "One Punch Man Season 2",
+            "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+            "englishName": "One-Punch Man Season 2",
+            "episodeCount": "12",
+            "score": 7.54,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "slugTime": null,
+            "__typename": "Show"
+        }
+    ],
+    "episode_streamsHpfBem3J6j8hnr7b8_1": [
+        {
+            "sourceUrl": "https://ok.ru/videoembed/10495719901842",
+            "priority": 3.5,
+            "sourceName": "Ok",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "text-info",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://listeamed.net/e/eL2157PWP7Kxrw4",
+            "priority": 5.5,
+            "sourceName": "Vg",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "VidGuard",
+                "downloadUrl": "https://listeamed.net/v/eL2157PWP7Kxrw4"
+            }
+        },
+        {
+            "sourceUrl": "https://mp4upload.com/embed-p1vzm06ggh7y.html",
+            "priority": 4,
+            "sourceName": "Mp4",
+            "type": "iframe",
+            "sandbox": "allow-forms allow-scripts allow-same-origin",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "https://filemoon.to/e/4jffsirsc52r.html",
+            "priority": 5.5,
+            "sourceName": "Fm-Hls",
+            "type": "iframe",
+            "className": "text-danger",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "Filemoon",
+                "downloadUrl": "https://filemoon.to/d/4jffsirsc52r.html"
+            }
+        },
+        {
+            "sourceUrl": "--504c4c484b0217174c5757544b165e594b4c0c4b485d5d5c164a4b4e481717555d5c515901174e515c5d574b1770485e7a5d550b720e520050564a0f5a00174b4d5a170967090f0e080a000a0e0d0e09010f074e0509",
+            "priority": 7.9,
+            "sourceName": "Yt-mp4",
+            "type": "player",
+            "className": "",
+            "streamerId": "allanime"
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0a010f0d0e5e0f0a0e0b0f0d0a010e0d0e5d0e0f0f0c0f0a0e590e010f0b0f0d0f0a0f5e0a010e0f0e000e5e0e5a0e0b0b0c0a010c5d0f0e0e080c0c0e0b0e5a0b0d0c5b0b080e5b0b5d0e5d0e000f0c0b090e0c0b5d0d010b0f0d010f0d0f0b0e0c0a000e5a0f0e0b0a0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0d0d0e5d0e0f0f0c0e0b0f0e0e010e5e0e000f0a0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0f0b0f0a5a0b0f0b0e0d0a0b0f0b0b0b5b0b0b0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0a590a0c0f0a0f0c0e0f0e000f0d0e590e0f0f0a0e5e0e010e000d0a0f5e0f0e0e0b0a0c0b5b0a0c0f0d0f0b0e0c0a0c0f5a",
+            "priority": 7.4,
+            "sourceName": "S-mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime",
+            "downloads": {
+                "sourceName": "S-mp4",
+                "downloadUrl": "https://blog.allanime.day/apivtwo/clock/download?id=7d2473746a243c2429756f72637529656e6774726a697375727f2967686f6b6334294e766044636b354c306c3e6e687431643e593759757364286b7632242a2475727463676b63744f62243c24556e67746376696f6872242a2462677263243c24343634332b37372b37365237333c333f3c3636283636365c242a24626971686a696762243c727473637b"
+            }
+        },
+        {
+            "sourceUrl": "--175948514e4c4f57175b54575b5307515c050f5c0a0c0f0b0f0c0e590a0c0b5b0a0c0f0d0f0b0e0c0a5a0f590a5a0f090e0f0f0a0e0d0e5d0a010e010e000e0b0a5a0f0e0f0b0e000e0d0e5d0a5a0e5a0e0f0e000a5a0f0d0e0b0e0f0f0d0e010e000a5a0b0d0a5a0b0f0b5e0b5e0b0d0b0c0b010e0b0f0e0b5a0b0f0b0a0b0b0b5d0b080b5d0a0c0a590a0c0f0d0f0a0f0c0e0b0e0f0e5a0e0b0f0c0c5e0e0a0a0c0b5b0a0c0e000f0d0e0b0f0c0f080e0b0f0c0a0c0a590a0c0e0a0e0f0f0a0e0b0a0c0b5b0a0c0b0c0b0e0b0c0b0b0a5a0b0f0b0f0a5a0b0f0b0e0d0a0b0f0b0b0b5b0b0b0b5e0b5b0b0e0b0e0a000b0e0b0e0b0e0d5b0a0c0f5a",
+            "priority": 7.6,
+            "sourceName": "Luf-Mp4",
+            "type": "iframe",
+            "className": "",
+            "streamerId": "allanime"
+        }
+    ],
+    "video_list_HpfBem3J6j8hnr7b8_1": [
+        [
+            {
+                "link": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=Ec59ZIHRC_dAlDArw6gMV-QBSW2uRRi_blql_PP8WAwJ5A",
+                "mp4": true,
+                "resolutionStr": "Mp4",
+                "src": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?share=Ec59ZIHRC_dAlDArw6gMV-QBSW2uRRi_blql_PP8WAwJ5A",
+                "fromCache": "2025-11-10T15:59:58.410Z"
+            }
+        ]
     ]
 }
